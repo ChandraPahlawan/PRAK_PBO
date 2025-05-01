@@ -1,0 +1,2 @@
+ID: 1, Pelanggan: chandra, Total: Rp444000,00, Metode: Kartu Debit, Waktu: 01-05-2025 19:29:21
+ID: 1, Pelanggan: chandra, Total: Rp444000,00, Metode: E-Wallet, Waktu: 01-05-2025 19:30:21
